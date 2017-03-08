@@ -24,10 +24,7 @@
     "angular": "^1.3.0",
     "ckeditor": "^4.4.0"
   },
-  "main": [
-    "ng-ckeditor.js",
-    "ng-ckeditor.css"
-  ],
+  "main": "ng-ckeditor.js",
   "engines": {
     "node": ">=0.10.0"
   },
