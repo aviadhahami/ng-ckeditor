@@ -16,13 +16,14 @@ run `npm i` and somewhere in your code:
 import 'ng-ckeditor';
 import 'ng-ckeditor/ng-ckeditor.css';
 ```
-and in your app depenedencies add
+and in your app dependencies add
 ```js
 angular.module('appLib', [
     ...
 	'ngCkeditor',
 ])
 ```
+
 
 
 ## Installing via Bower
